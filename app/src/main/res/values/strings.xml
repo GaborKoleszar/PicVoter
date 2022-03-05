@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PicVoter</string>
+    <string name="pexels_api_key">563492ad6f9170000100000151336a4205494285baa335d1c54275b9</string>
+    <string name="searchfield_hint">Nature, cars, architecture…</string>
+    <string name="searchfield_label">Search</string>
+    <string name="fab_content_description">Open search field</string>
+</resources>
